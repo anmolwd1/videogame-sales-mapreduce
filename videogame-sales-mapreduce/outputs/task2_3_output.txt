@@ -1,0 +1,6 @@
+Activision	2000s	207.6
+Activision	2010s	163.13
+Electronic Arts	2000s	374.46
+Electronic Arts	2010s	216.56
+Sony Computer Entertainment	2000s	239.72
+Sony Computer Entertainment	2010s	78.84

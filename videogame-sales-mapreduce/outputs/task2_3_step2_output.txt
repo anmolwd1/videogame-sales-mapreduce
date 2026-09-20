@@ -1,0 +1,4 @@
+Top 3 Platforms: ['PS2', 'X360', 'PS3']
+"Electronic Arts"	591.02
+"Activision"	370.73
+"Sony Computer Entertainment"	318.56

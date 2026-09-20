@@ -1,0 +1,12 @@
+Action	1980s	50.89
+Action	1990s	139.29
+Action	2000s	857.98
+Action	2010s	671.76
+Shooter	1980s	59.79
+Shooter	1990s	68.95
+Shooter	2000s	434.66
+Shooter	2010s	462.54
+Sports	1980s	32.28
+Sports	1990s	146.57
+Sports	2000s	804.68
+Sports	2010s	324.6

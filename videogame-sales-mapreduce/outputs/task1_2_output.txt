@@ -1,0 +1,12 @@
+"Action"	1719.92
+"Adventure"	233.75
+"Fighting"	444.01
+"Misc"	787.79
+"Platform"	828.84
+"Puzzle"	241.63
+"Racing"	724.81
+"Role-Playing"	920.56
+"Shooter"	1025.94
+"Simulation"	389.83
+"Sports"	1308.13
+"Strategy"	173.12

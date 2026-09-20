@@ -1,0 +1,8 @@
+Top 3 Platforms: ['PS2', 'X360', 'PS3']
+Top 3 Publishers: ['Electronic Arts', 'Activision', 'Sony Computer Entertainment']
+"Activision"	[2000, 207.6]
+"Activision"	[2010, 163.13]
+"Electronic Arts"	[2000, 374.46]
+"Electronic Arts"	[2010, 216.56]
+"Sony Computer Entertainment"	[2000, 239.72]
+"Sony Computer Entertainment"	[2010, 78.84]
