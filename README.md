@@ -1,4 +1,4 @@
-# Video Game Sales — MapReduce Analytics Pipeline
+# Video Game Sales - MapReduce Analytics Pipeline
 
 A multi-stage MapReduce pipeline that cleans, aggregates, and analyzes a 16,000+ record video
 game sales dataset, built with `mrjob` and MongoDB. The pipeline answers three progressively
